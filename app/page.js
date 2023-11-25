@@ -42,7 +42,7 @@ const Page = () => {
       );
     });
   }
-
+ 
   return (
     <>
     <h1 className='text-white bg-black p-5 text-2xl font-bold text-center'>
